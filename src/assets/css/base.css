@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  color: #333;
+}
+li{
+  list-style: none;
+}
+img{
+  border: none;
+  vertical-align: middle;
+}
+a{
+  text-decoration: none;
+}
