@@ -41,6 +41,7 @@ export default {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    background: #eee;
   }
   .tabBar .tab-bar-item{
     flex: 1;
